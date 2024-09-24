@@ -1,0 +1,647 @@
+.div32-main-menu{
+    width: 100%;
+    height: 1420px;
+    background-size: 100% 100%;
+    background-color: black;
+
+}
+
+
+/* left part start */
+.div-cart{
+    display: flex;
+
+    flex-grow: 1;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 1050px;
+    /* border: 2px solid red; */
+}
+.div-cart-left{
+    width: 48%;
+    height: 900px;
+    /* border: 2px solid greenyellow; */
+    margin-left: -5%;
+    margin-top: 5%;
+
+}
+
+.div-cart-left-head{
+    display: flex;
+    flex-grow: 1;
+    width: 100%;
+    height: 34px;
+    padding-top: 4%;
+  
+}
+.head1{
+    width: 50%;
+    
+}
+.head2{
+    width: 50%;
+    text-align: end;
+    letter-spacing: 1px;
+    font-size: 22px;
+}
+.head1 h3{
+   color: white;
+   letter-spacing: 1px;
+   font-size: 22px;
+
+    
+}
+.head2 h3{
+   color: white;
+}
+
+/* left body start */
+.left-body{
+    width: 100%;
+    height: 580px;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.left-body1{
+    display: flex;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 140px;
+    background-color: rgba(217, 217, 217, 0.3);
+}
+.left-body2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 140px;
+    background-color: rgba(217, 217, 217, 0.3);
+}
+.left-body3{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 140px;
+    background-color: rgba(217, 217, 217, 0.3);
+}
+
+.left-body1-a{
+    width: 120px;
+    height: 120px;
+    /* background-color: red; */
+}
+.left-body1-a img{
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin: 8%;
+   
+}
+.left-body1-b{
+    width: 50%;
+    height: 140px;
+    margin-top: 1%;
+}
+.left-body1-b h3{
+    font-family: Josefin Sans;
+    color: white;
+    margin-top: 4%;
+    
+}
+.left-body1-b p{
+    color: white;
+    font-family: Inter;
+    margin-top: 3%;
+    font-size: 14px;
+
+}
+
+.left-body1-c{
+
+    width: 100px;
+    height: 100px;
+    margin-right: 4%;
+    margin-top: 2%;
+}
+.left-body1-c h3{
+    font-family: Josefin Sans;
+    color: white;
+    font-size:23px;
+    margin-left: 23%;
+
+}
+
+.del-main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    height: 35px;
+    margin-top: 15%;
+}
+.delete-log{
+    width: 33.3px;
+    height: 35px;
+    background-color: rgb(196, 196, 196);
+padding-top: 5%;
+}
+.numb{
+   width: 33.3px;
+    height: 35px;
+    border: 2px solid white;
+    text-align: center;
+    background-color: white;
+padding-top: 5%;
+}
+.pls{
+    width: 33.3px;
+    height: 35px;
+    background-color: rgb(196, 196, 196);
+    padding-top: 5%;
+}
+/* first row end of left body */
+#left-body2-shadow{
+    background-color: rgba(217, 217, 217, 0.1);
+}
+/* second row end of left body */
+
+
+
+  
+
+
+  /* crousel end */
+
+
+
+/* left div end------------------------------------------------------------------------------  */
+
+/* right div start----------------------------------------------------- */
+
+.div-cart-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 36%;
+    height: 1000px;
+    /* border: 2px solid orange; */
+   margin-top: 2%;
+    margin-right: -5%;
+
+}
+
+.right-head{
+    width: 100%;
+    height: 50px;
+    margin-top: 4%;
+    padding-top: 8%;
+}
+.right-head h3{
+    color: white;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.right-body1{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(217, 217, 217, 0.3);
+    margin-top: 2.1%;
+    /* border: 4px dotted green; */
+
+}
+.right-body1-a{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100px;
+}
+.right-body1-a h5{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+.right-body1-a p{
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+
+}
+.right-body1-a button{
+    width: 120px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 4%;
+    background-color: rgb(204, 204, 204);
+    border:none;
+    margin-top: 6%;
+
+}
+.right-body1-a-content{
+    margin-top: 4%;
+    width: 50%;
+}
+.right-body-a-horizontal{
+    width: 80%;
+    height: 2px;
+margin-left: 9.5%;
+    background-color: white;
+}
+/* first row end of left side */
+.right-body1-b{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100px;
+}
+
+.right-body1-b h5{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+
+.right-body1-b button{
+    width: 120px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 4%;
+    background-color: rgb(204, 204, 204);
+    border:none;
+    margin-top: 6%;
+
+
+}
+.right-body1-b-content{
+    margin-top: 4%;
+    width: 50%;
+}
+
+/* first block of right side end */
+/* first block of right side end */
+
+.right-head2{
+    width: 100%;
+   height: 40px;
+    /* border:2px solid blue; */
+
+}
+.right-head2 h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 24px;
+    padding-top: 8%;
+
+}
+.right-body2{
+    display: flex;
+justify-content: space-between;
+    width: 100%;
+    height: 150px;
+    /* border:2px solid blue; */
+    background-color: rgba(217, 217, 217, 0.3);
+
+}
+
+.right-body2 button{
+    width: 25px;
+    font-size: 30px;
+   background-color:  rgba(255, 255, 255, 0.5);
+
+
+}
+.right-body2-content{
+    width: 75%;
+    margin-top: 9%;
+    margin-left: 5%;
+}
+.right-body2-content p{
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 2.5%;
+}
+
+.right-body2-content h5{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+
+
+}
+/* body 3 start or second block end */
+
+.right-head3{
+    width: 100%;
+    height: 40px;
+
+}
+.right-head3 h3{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    padding-top: 8%;
+}
+.right-body3-a{
+    width: 100%;
+    height: 250px;
+    background-color: rgba(217, 217, 217, 0.3);
+
+
+
+}
+.a-one h5{
+    color: white;
+    font-size: 22px;
+}
+.a-one{
+    width: 100%;
+    height: 180px;
+    /* margin-top: 6%; */
+    /* border: 4px solid green; */
+    
+    
+}
+.j{
+    color: white;
+    font-size: 27px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 6%;
+    
+}
+.body3-horizontal-line{
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+
+}
+.right-body3-b button{
+    width: 100.7%;
+    height: 40px;
+    font-size: 25px;
+    background-color:  rgba(255, 255, 255, 0.5);
+
+    
+}
+.k{
+    color: white;
+    font-size: 27px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 2%;
+   
+}
+.k h5{
+    width: 200px;
+
+    margin-left: 4%;
+}
+.j h5{
+    width: 200px;
+    margin-left: 4%;
+}
+.right-body3-b{
+  
+}
+/*  crousel start */
+/*  crousel start-------------------------------------------------- */
+/*  crousel start first crousel start */
+/* Crousel one part start-  in left div ---------------------------- */
+.crousel-head {
+    width: 100%;
+    height: 40px;
+
+}
+.crousel-head h3{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    /* margin-top: 4%; */
+    padding-top: 3%;
+}
+.cart-crousel{
+    width: 108%;
+    height: 230px;
+    margin-left: -2%;
+    /* border: 2px solid rgb(255, 81, 0); */
+   
+}
+
+.mycart{
+    min-width: 200px;
+    max-width: 100px;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+.mycart img{
+    min-width: 200px;;
+    max-width: 100px;
+    height: 200px;  
+
+}
+
+
+
+
+.bottom-crousel{
+    width: 100%;
+    height: 240px;
+    /* border: 2px dotted white; */
+
+}
+
+
+
+
+  /* crousel end */
+
+/* Responsive part start ------------------------------------------------ */
+@media(max-width:500px){
+    /* Cart page start  */
+/* Cart page start  */
+/* Cart page start  */
+/* Cart page start  */
+/* Cart page start  */
+
+
+/* cart page start------ */
+/* cart page start------ */
+/* cart page start------ */
+/* cart page start------ */
+.div32-main-menu{
+    height: 1450px;
+}
+.div-cart{
+    height:1620px;
+    flex-direction: column;
+    margin-top: -10%;
+    /* border:2px solid rgb(236, 17, 65) */
+
+    
+}
+.div-cart-left{
+    margin-top: -81%;
+    width: 100%;
+    height: 600px;
+    /* border:2px solid coral */
+}
+.head1 h3{
+    padding-top: 8%;
+    font-size: 20px;
+}
+.head2 h3{
+    padding-top: 8%;
+    font-size: 20px;
+}
+.left-body{
+    width: 100%;
+    height: 350px;
+    /* border: 2px dotted rgb(0, 255, 98); */
+}
+.left-body1{
+
+    width: 100%;
+    height: 80px;
+    /* border:2px solid rgb(154, 47, 255); */
+    margin-left: 4%;
+}
+.left-body1-a{
+    width: 60px;
+    height: 60px;
+}
+.left-body1-a img{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+.left-body1-b{
+    width: 170px;
+    height: 60px;
+    margin-top: -1%;
+    
+}
+.left-body1-b h3{
+    font-size: 11px;
+
+}
+.left-body1-b p{
+    font-size: 10px;
+
+}
+.left-body1-c {
+    width: 44px;
+    height: 50px;
+
+}
+.left-body1-c  h3{
+font-size: 12px;
+}
+.del-main{
+    width: 45px;
+    height: 28px;
+}
+#dl{
+    font-size: 16px;
+}
+#pl{
+    font-size: 16px;
+}
+.delete-log{
+    width: 15px;
+    height: 25px;
+    
+}
+.numb{
+    width: 15px;
+    height: 25px;
+    font-size: 13px;
+}
+
+.pls{
+    width: 15px;
+    height: 25px;
+}
+/* first row end */
+
+
+/* crousel */
+.crousel-head{
+    width: 100%;
+    height: 30px;
+
+}
+.crousel-head h3{
+    font-size: 20px;
+text-align: center;
+margin-left: 7%;
+margin-top: -19%;
+}
+
+/* .list-item img{
+    width: 120px;
+    height: 120px;
+}
+.cart-crousel{
+    margin-left: 4%;
+    width: 100%;
+    height: 130px;
+
+}
+.list-item li{
+    width: 120px;
+    height: 120px;
+} */
+
+/* left part end */
+
+.div-cart-right{
+    width: 100%;
+    height: 800px;
+    margin-top: -85%;
+}
+.right-head h3{
+    font-size: 20px;
+}
+.right-head2 h3{
+    font-size: 20px;
+    padding-top: 4%;
+}
+.right-head3 h3{
+    padding-top: 4%;
+    font-size: 20px;
+}
+.bottom-crousel{
+    display: none;
+}
+
+.j h5{
+    font-size: 15px;
+    margin-top: 8%;
+
+}
+.k h5{
+    width: 100px;
+font-size: 15px;
+    margin-left: 4%;
+}
+.j h5{
+    font-size: 15px;
+    margin-top: 8%;
+    width: 100px;
+    margin-left: 4%;
+}
+/* cart page end */
+}

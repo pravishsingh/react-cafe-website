@@ -1,0 +1,510 @@
+
+/*Account Page start  ====================================================================================================== */
+
+.div33-main-menu{
+    width: 100%;
+    height: 1050px;
+    background-image: url("/Sunset/MENU_IMAGES/cart-image.png");
+    background-size: 100% 100%;
+}
+.div33-shadow{
+    width: 100%;
+    height: 1050px;
+    background-color: rgba(0, 0, 0,0.5);
+}
+.div-acc-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 800px;
+    /* border: 2px solid red; */
+}
+
+.div-acc-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width:25%;
+    height:300px;
+    margin-top: 3%;
+    margin-left: 2%;
+    overflow: auto;
+    /* border:2px solid green; */
+    background-color: rgb(49, 47, 47);
+}
+
+/* [======================= */
+.acc-one{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-top: 7%; */
+    justify-content: space-between;
+}
+/* .acc-one-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+    display: none;
+
+} */
+
+
+
+.acc-one-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+    
+
+}
+/* 
+.acc-one-content:hover + .acc-one-line,
+.acc-one-line:hover {
+    display: block;
+} */
+
+/* acc first left end */
+.acc-two{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    justify-content: space-between;
+}
+/* .acc-two-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+
+} */
+.acc-two-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+
+}
+/* acc SECOND left end */
+.acc-three{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    justify-content: space-between;
+}
+/* .acc-three-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+
+} */
+.acc-three-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+}
+/* acc THIRD left end */
+/* left part end  */
+/* right part start */
+
+.div-acc-right{
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+    width: 68%;
+    height: 800px;
+    margin-left: 5%;
+    /* border:2px solid yellow; */
+}
+.acc-right-one {
+    width: 95%;
+    height: 50px;
+    color: white;
+    /* border: 2px solid rgb(255, 47, 245); */
+
+}
+
+.acc-right-two{
+    width: 95%;
+    height: 50px;
+    color: white;
+    /* border: 2px solid rgb(109, 47, 255); */
+
+   
+}
+.acc-right-two-horz{
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    margin-top: 1%;
+}
+.acc-right-three{
+    width: 95%;
+    height: 90px;
+    color: white;
+
+    /* border: 2px solid greenyellow; */
+}
+.acc-right-four{
+    width: 95%;
+    height: 50px;
+    color: white;
+    /* border: 2px solid yellowgreen; */
+
+}
+.acc-right-four-content{
+    width: 42%;
+    font-size: 18px;
+    
+    justify-content: space-between;
+    display: flex;
+    /* border: 2px solid rgb(205, 50, 63); */
+}
+.acc-right-four-horz{
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    margin-top: 1%;
+  
+}
+
+.acc-right-five{
+    width: 95%;
+    height: 50px;
+    /* border: 2px solid yellowgreen; */
+    color: white;
+    font-size: 18px;
+}
+.acc-right-five p{
+    margin-top:1% ;
+
+}
+.acc-right-six{
+    width: 95%;
+    height: 50px;
+    /* border: 2px solid yellowgreen; */
+    color: white;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+
+.acc-right-seven{
+    width: 95%;
+    height: 60px;
+    /* border: 2px solid yellowgreen; */
+    color: white;
+}
+.acc-right-eight{
+    width: 95%;
+    height: 50px;
+    /* border: 2px solid yellowgreen; */
+    color: white;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.acc-bottom-horz{
+    width: 100%;
+    height: 2px;
+   background-color: #fff;
+}
+.acc-bottom-content{
+    margin-left: 2%;
+    width: 95%;
+    height: 140px;
+    margin-top: 1.4%;
+}
+.acc-bottom-content h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 29px;
+}
+.acc-mail{
+    margin-top: 1%;
+    width: 50%;
+    height: 80px;
+    display: flex;
+
+}
+.mail-one input{
+
+    width: 280px;
+    height: 45px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    background-color: black;
+    padding-left: 6%;
+    border: none;
+
+}
+.acc-mail button{
+    width: 200px;
+    height: 45px;
+    border: none;
+    background-color:rgba(217, 217, 217, 0.9);
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.resp-acc-main{
+    display: none;
+}
+
+/*  */
+a:active{
+    color: orange;
+    text-decoration: underline;
+}
+a:visited{
+    text-decoration: underline;
+}
+/* Account page end */
+
+
+@media(max-width:500px){
+    /* Account page start */
+
+.resp-acc-main{
+    display: block;
+    width: 100%;
+    height: 990px;
+    /* border: 2px solid red; */
+    margin-top: -9%;
+    display: flex;
+    flex-direction: column;
+
+}
+.resp-acc-submain{
+    display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ height: 990px;
+    width:100%;
+    
+    /* border: 2px solid yellow; */
+}
+.div-acc-main{
+    display: none;
+}
+.div33-shadow{
+    background-color:rgb(24, 43, 39);
+}
+.resp-acc-one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 130px;
+    background-color:rgb(29, 29, 29);
+    /* border:2px dotted yellowgreen; */
+}
+.resp-acc-circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:rgba(217, 217, 217, 1);
+    margin-top: 5%;
+}
+.resp-acc-one-xyz{
+    width: 40%;
+    height: 130px;
+    letter-spacing: 2px;
+    margin-top: 8%;
+    
+}
+.resp-acc-one-xyz h4{
+    font-size: 22px;
+    /* color:rgb(13, 240, 134); */
+    color:red
+}
+
+.resp-acc-one-xyz p{
+    margin-top: 4%;
+}
+/* first row end */
+.resp-acc-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 118px;
+    /* border:2px dotted yellowgreen; */
+}
+.resp-acc-left{
+    width: 44%;
+    height: 110px ;
+     background-color:rgb(29, 29, 29);
+     border-radius: 30px;
+     text-align: center;
+     color: white;
+     margin-left: 2%;
+}
+.resp-acc-left-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:rgba(217, 217, 217, 1);
+    margin-left: 25%;
+    margin-top: 14%;
+
+}
+#resp-acc-heart{
+    color: red;
+    font-size: 40px;
+    margin:16%
+}
+.resp-acc-right{
+     width: 44%;
+    height: 110px ;
+     background-color:rgb(29, 29, 29);
+     border-radius: 30px;
+     text-align: center;
+     color: white;
+     margin-right: 2%;
+}
+.resp-acc-right-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:rgba(217, 217, 217, 1);
+    margin-left: 25%;
+    margin-top: 14%;
+
+}
+/* second row end */
+
+.resp-acc-three{
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 96%;
+    max-height: 50px;
+    /* border: 2px dotted yellow; */
+    border-radius: 10px;
+    margin-left: 2%;
+         background-color:rgb(29, 29, 29);
+
+
+}
+.resp-acc-left-three{
+    width: 35px;
+    height: 35px;
+    background-color:rgba(217, 217, 217, 1);
+    border-radius: 50%;
+    margin-top: 2%;
+}
+.resp-acc-right-three{
+    width: 80%;
+    height: 40px;
+    /* border: 2px solid green; */
+    color: white;
+    letter-spacing: 2px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+/* third and fourth for same css propoerty  */
+/* fourt& third end */
+
+.resp-acc-fifth{
+    width: 96%;
+    height: 194px;
+    /* border: 2px dotted greenyellow; */
+    margin-left: 2%;
+    background-color:rgb(29, 29, 29);
+    color: white;
+    border-radius: 10px;
+}
+.resp-acc-fifth h3{
+    padding-left: 2%;
+    letter-spacing: 2px;
+}
+.acc-fifth-one{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    width: 100%;
+    height: 33px;
+    margin-top: 3%;
+    /* border: 2px solid red; */
+}
+.acc-fifth-circle{
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:rgba(217, 217, 217, 1);
+    margin-left: 1%;
+
+
+}
+.acc-fifth-content{
+    width:80%;
+    /* border:2px solid blueviolet; */
+    letter-spacing: 2px;
+    margin-top: 1%;
+    padding-left: 6%;
+    font-size: 19px;
+}
+.fifth-horizontal{
+    width: 105%;
+    height: 2px;
+    background-color: #fff;
+    margin-left: -3%;
+    margin-top: 3%;
+}
+
+
+/* fifth end */
+
+.resp-acc-sixth{
+    width: 96%;
+    height: 240px;
+    /* border: 2px dotted greenyellow; */
+    margin-left: 2%;
+    background-color:rgb(29, 29, 29);
+    color: white;
+    border-radius: 10px;
+}
+
+.resp-acc-sixth h3{
+    padding-left: 2%;
+    letter-spacing: 2px;
+}
+/* sixth end */
+
+.resp-acc-seventh{
+    width: 96%;
+    height: 60px;
+    background-color:rgb(29, 29, 29);
+    color: white;
+    letter-spacing: 2px;
+    margin-left: 2%;
+    border-radius: 10px;
+
+}
+.resp-acc-seventh h3{
+    padding-left: 2%;
+}
+.resp-acc-seventh h4{
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+/* sevent end */
+/* account page end */
+}

@@ -1,0 +1,1328 @@
+/*  Responsive -----------------------*/
+/*  Responsive -------------------=============================================----*/
+@media(max-width:500px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    /* Main-menu first page---------------------------------------------------------------- */
+
+.main{
+    height: 3900px;
+   
+
+}
+.menu-main{
+    display: none;
+
+}
+
+.resp-main-menu1{
+    display: block;
+    background-color:rgba(37, 26, 23, 1)
+}
+.resp-logo1 h2 {
+    color:rgba(218, 143, 112, 1);
+    font-size: 33px;
+    letter-spacing: 4px;
+    text-align: center;
+
+}
+
+.resp-logo1 h3{
+    color: white;
+    font-family: inspiration;
+    font-size:  30px;
+    letter-spacing: 4px;
+    text-align: center;
+
+
+}
+.resp-div1{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.resp-1{
+    margin-left:5%;
+    width: 100px;
+    height: 1px; 
+    background-color: #fff;
+}
+.resp-2{
+    color: white;
+    width: 120px;
+    text-align: center;
+    margin-top: -3%;
+
+    
+}
+.resp-3{
+    margin-right:5%;
+    width: 100px;
+    height: 1px; 
+    background-color: #fff;
+}
+
+.resp-div2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 4%;
+}
+.recom{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(252, 200, 200, 1);
+    text-align: center;
+    letter-spacing: 1px;
+    border-radius:8px 0px 0 8px;
+
+}
+.recom h4{
+    margin-top: 5%;
+}
+.fav{
+    display: flex;
+    flex-wrap: wrap;
+    width:130px;
+    height: 35px;
+    background-color: rgba(217, 217, 217, 1);
+    text-align: center;
+    letter-spacing: 1px;
+    border-radius: 0px 8px 8px 0px;
+    justify-content: space-evenly;
+}
+.fav span{
+    color: red;
+    margin-top: 4%;
+    
+}
+.fav h4{
+    margin-top: 5%;
+}
+
+.resp-div3{
+    width: 100%;
+    height: 200px;
+    background-image: url("/Sunset/MENU_IMAGES/special.jpeg");
+    background-size: 100% 100%;
+    filter: blur(0.3px);
+    /* transform: scaleY(1.6); */
+  
+}
+.resp-div3-shadow{
+    width: 100%;
+    height: 200px;
+      background-color: rgba(0, 0, 0,0.5);
+
+}
+.img-content1 h3{
+    width: 60px;
+    color:white;
+    padding-top: 30%;
+    letter-spacing: 1px;
+    padding-left: 3%;
+    margin-top: 5%;
+
+
+}
+/* div5 start */
+/* first row start */
+.resp-div5{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div5-right{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr1.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    margin-left: 5%;
+     
+}
+.resp-div5-left{
+    width: 40%;
+    height: 180px;
+}
+.resp-div5-left h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div5-left p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div5-horz{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* first row end */
+/* second row start  */
+.resp-div6{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div6-right1{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr2.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div6-left1{
+    width: 50%;
+    height: 180px;
+}
+.resp-div6-left1 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div6-left1 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart1{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus1{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus1 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div6-horz1{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* second row end  */
+
+/* third row start */
+.resp-div7{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div7-right2{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr3.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div7-left2{
+    width: 50%;
+    height: 180px;
+}
+.resp-div7-left2 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div7-left2 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart2{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus2{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus2 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div7-horz2{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* third row end */
+
+/* fourth row start */
+.resp-div8{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div8-right3{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr4.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div8-left3{
+    width: 50%;
+    height: 180px;
+}
+.resp-div8-left3 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div8-left3 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart3{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus3{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus3 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div8-horz3{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* fourth row end */
+
+/* fifth row start */
+.resp-div9{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div9-right4{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr5.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div9-left4{
+    width: 50%;
+    height: 180px;
+}
+.resp-div9-left4 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div9-left4 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart4{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus4{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus4 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div9-horz4{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* fifth row end */
+
+/* six row start */
+.resp-div10{
+    width: 100%;
+    height: 200px;
+    background-image: url("/Sunset/MENU_IMAGES/dr6.jpeg");
+    background-size: 100% 100%;
+    filter: blur(0.3px);
+    /* transform: scaleY(1.6); */
+  
+}
+.resp-div10-shadow{
+    width: 100%;
+    height: 200px;
+      background-color: rgba(0, 0, 0,0.5);
+
+}
+.img-content2 h3{
+    width: 60px;
+    color:white;
+    padding-top: 20%;
+    letter-spacing: 1px;
+    padding-left: 3%;
+    margin-top: 5%;
+
+
+}
+/* six row end */
+
+/* 7 row start */
+.resp-div11{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div11-right5{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr7.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div11-left5{
+    width: 50%;
+    height: 180px;
+    margin-top: -5%;
+}
+.resp-div11-left5 h4{
+    color: white;
+    margin-top: 30%;
+    /* text-align: center; */
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div11-left5 p{
+    color: white;
+    /* text-align: center; */
+    margin-top: 4%;
+}
+
+
+#heart5{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus5{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus5 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div11-horz5{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+#det{
+    font-size: 11px;
+}
+
+/* 7 row end */
+
+/* 8 row start */
+.resp-div12{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div12-right6{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr8.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div12-left6{
+    width: 50%;
+    height: 180px;
+    margin-top: -5%;
+}
+.resp-div12-left6 h4{
+    color: white;
+    margin-top: 30%;
+    /* text-align: center; */
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div12-left6 p{
+    color: white;
+    /* text-align: center; */
+    margin-top: 4%;
+}
+
+
+#heart6{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus6{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus6 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div12-horz6{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+#det{
+    font-size: 11px;
+}
+/* 8 row end */
+
+/* 9 row start */
+.resp-div13{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div13-right7{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr9.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div13-left7{
+    width: 50%;
+    height: 180px;
+    margin-top: -5%;
+}
+.resp-div13-left7 h4{
+    color: white;
+    margin-top: 30%;
+    /* text-align: center; */
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div13-left7 p{
+    color: white;
+    /* text-align: center; */
+    margin-top: 4%;
+}
+
+
+#heart7{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus7{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus7 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div13-horz7{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+#det{
+    font-size: 11px;
+}
+/* 9 row end */
+
+/* 10 row start */
+.resp-div14{
+    width: 100%;
+    height: 200px;
+    background-image: url("/Sunset/MENU_IMAGES/dr10.jpeg");
+    background-size: 100% 100%;
+    filter: blur(0.3px);
+    /* transform: scaleY(1.6); */
+  
+}
+.resp-div14-shadow{
+    width: 100%;
+    height: 200px;
+      background-color: rgba(0, 0, 0,0.5);
+
+}
+.img-content3 h3{
+    width: 60px;
+    color:white;
+    padding-top: 20%;
+    letter-spacing: 1px;
+    padding-left: 3%;
+    margin-top: 5%;
+
+
+}
+/* 10 row end */
+
+/* 11th row start */
+.resp-div15{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div15-right8{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr11.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div15-left8{
+    width: 50%;
+    height: 180px;
+}
+.resp-div15-left8 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div15-left8 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart8{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus8{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus8 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div15-horz8{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 11th row end */
+
+/* 12th row start */
+.resp-div15{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div15-right8{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr12.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div15-left8{
+    width: 50%;
+    height: 180px;
+}
+.resp-div15-left8 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div15-left8 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart8{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus8{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus8 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div15-horz8{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 12th row end */
+
+/* 13th row start */
+.resp-div16{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div16-right9{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr13.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div16-left9{
+    width: 50%;
+    height: 180px;
+}
+.resp-div16-left9 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div16-left9 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart9{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus9{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus9 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div16-horz9{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 13th row end */
+/* 13th row start */
+.resp-div17{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div17-right10{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr14.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div17-left10{
+    width: 50%;
+    height: 180px;
+}
+.resp-div17-left10 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div17-left10 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart10{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus10{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus10 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div17-horz10{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 13th row end */
+
+/* 14th row start */
+.resp-div18{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div18-right11{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr15.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div18-left11{
+    width: 50%;
+    height: 180px;
+}
+.resp-div18-left11 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div18-left11 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart11{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus11{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus11 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div18-horz11{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 14th row end */
+
+/* 15th row start */
+.resp-div19{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.resp-div19-right12{
+    width: 130px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/dr11.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+     
+}
+.resp-div19-left12{
+    width: 50%;
+    height: 180px;
+}
+.resp-div19-left12 h4{
+    color: white;
+    margin-top: 30%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.resp-div19-left12 p{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+#heart12{
+    color: red;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.resp-plus12{
+    width: 50px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin-left: 69%;
+    margin-top: -5%;
+  
+   
+}
+.resp-plus12 p{   
+    color: black;
+    text-align: center;
+
+
+    
+}
+.resp-div19-horz12{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+/* 15th row end */
+
+/* 16 row start */
+
+.resp-div20{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    justify-content: space-evenly;
+}
+.resp-div20-one{
+    width:80px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 4%;
+}
+
+.resp-div20-two button{
+    width: 140px;
+    height: 30px;
+    background-color: rgba(209, 110, 67, 1);
+    color: white;
+    font-size: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 12px;
+    
+}
+
+.resp-div20-three{
+    width:80px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 4%;
+}
+/* 16 row end */
+
+/* 17 row start */
+
+.resp-div21{
+    width: 100%;
+    height: 50px;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.resp-one-img img{
+    width: 70px;
+    height: 60px;
+    border-radius: 20px;
+}
+.resp-div21-one h2{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.resp-two-img img{
+    width: 70px;
+    height: 60px;
+    border-radius: 20px;
+}
+.resp-div21-two h2{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+
+.resp-three-img img{
+    width: 70px;
+    height: 60px;
+    border-radius: 20px;
+}
+.resp-div21-three h2{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+
+.resp-four-img img{
+    width: 70px;
+    height: 60px;
+    border-radius: 20px;
+}
+.resp-div21-four h2{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+/* 17 row end */
+
+/* 18 row start */
+.resp-div22{
+    display: flex;
+    justify-content: center;
+    margin-top: 17%;
+    justify-content: space-evenly;
+}
+.resp-div22-one{
+    width:80px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 4%;
+}
+
+.resp-div22-two button{
+    width: 140px;
+    height: 30px;
+    background-color: rgba(209, 110, 67, 1);
+    color: white;
+    font-size: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 30px;
+
+    
+}
+
+.resp-div22-three{
+    width:80px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 4%;
+}
+/* 18 row end */
+
+/* 19 row start */
+
+.resp-div23{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+
+.resp-div23-two{
+    display: flex;
+    width: 150px;
+    height: 40px;
+    color:white;
+    font-size: 10px;
+    background-color: rgba(209, 110, 67, 1);
+    padding-left: 4%;
+    padding-top: 3%;
+    justify-content:space-around;
+    border-radius: 5px;
+    margin-top: 5%;
+
+    /* letter-spacing: 2px; */
+
+}
+.resp-div23-two span{
+    margin-top: -2%;
+}
+.product-container{
+    width: 100%;
+}
+.crausel-menu{
+    display: block;
+}
+
+}
+

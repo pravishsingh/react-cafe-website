@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide > div{
+    /* width: 150px; */
+    margin: 0 8px;
+    
+}
+.slick-slide > div h4{
+    font-size:16px;
+    line-height: 17px;
+}
+.slick-slide > div img{
+    width: 150px;
+}
+@media(max-width:500px){
+    .slick-slide>div{
+        width: 150px;
+        margin-left: 2%;
+    }
+    .slick-arrow{
+        width: 60px;
+        margin-left: -3%;
+        
+    }
+    .slick-next{
+        width: 10px;
+        right: 0px;
+    }
+ 
+    }

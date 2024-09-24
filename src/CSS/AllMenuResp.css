@@ -1,0 +1,1714 @@
+@media(max-width:500px){
+    .div23{
+        display: none;
+    }
+    .down-arrow1{
+        display: none;
+    }
+    .div22-main-menu{
+        height: 2600px;
+    }
+    .res-div-mainMenu1{
+        display: block;
+    }
+    .res-div24{
+       
+    }
+    .res-24-btn1{
+        width: 148px;
+        height: 36px;
+        border-radius: 12px;
+        background-color: rgba(209, 110, 67, 1);
+        color: white;
+        text-align: center;
+        padding-top: 2%;
+    }
+    .res-24-btn2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 148px;
+        height: 36px;
+        border-radius: 12px;
+        background-color: rgba(209, 110, 67, 1);
+        color: white;
+        text-align: center;
+    
+    }
+    .resp-veg{
+        width: 33px;
+        height: 25px;
+        background-color: white;
+        border-radius: 20px;
+        border: 2px solid rgb(42, 177, 42);
+        margin: 4%;
+        margin-left: 15%;
+      }
+      .resp-green{
+        width: 12px;
+        height: 11px;
+        background-color: rgb(42, 177, 42);
+        border-radius: 30px;
+        margin-left: 28.5%;
+        margin-top: 20%;
+        
+      }
+      .resp-slint-line{
+        width: 2px;
+        height:35px;
+        background-color: #fff;
+        rotate: 12deg;
+        margin-left: -5%;
+      }
+      .resp-non-veg{
+        width: 33px;
+        height: 25px;
+        background-color: white;
+        border-radius: 40px;
+        border: 2px solid brown;
+        margin-top: 4%;
+        
+      }
+    
+      .resp-brown{
+        width: 12px;
+        height: 11px;
+        background-color: brown;
+        border-radius: 30px;
+        margin-left: 28.5%;
+        margin-top: 20%;
+      }
+    
+    /* first row start */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        /* height: 120px; */
+        background-image: url("/Sunset/MENU_IMAGES/burger.jpg");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        /* margin-left: 5%; */
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+
+
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        /* margin-left: 69%;
+        margin-top: -5%; */
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    /* first rorw end */
+    /* second row start */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right1{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br1.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 69%;
+        margin-top: -5%;
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* second row end */
+    /* third row start */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right2{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br2.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 69%;
+        margin-top: -5%;
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* third row end */
+    
+    /* fourth row start  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right3{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br3.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* fourth row end  */
+    
+    
+    /* fifth row end  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right4{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br4.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* fifth row end  */
+    
+    
+    /* sixth row end  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right5{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br5.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* sixth row end  */
+    
+    /* seventh row start  */
+    
+    
+    #res-div24{
+        /* margin-top: 4%; */
+    }
+    /* sevent row end */
+    
+    /* 8th row start */
+    /* 8th row start */
+    
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right7{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br7.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        /* margin-left: 5%; */
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 69%;
+        margin-top: -5%;
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    /* 8th rorw end */
+    /* 9th row start */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right8{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br8.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 69%;
+        margin-top: -5%;
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* 9th row end */
+    /* 10th row start */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right9{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br9.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 69%;
+        margin-top: -5%;
+      
+       
+    }
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* 10th row end */
+    
+    /* 11 row start  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right10{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br10.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* 11th row end  */
+    
+    
+    /* 12th row start  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right11{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br11.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* 12th row end  */
+    
+    
+    /* 13th row start  */
+    .resp-div25{
+        width: 100%;
+        height: 140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 5%;
+    }
+    .resp-div25-right12{
+        width: 120px;
+        height: 40px;
+        height: 150px;
+        height: 120px;
+        background-image: url("/Sunset/MENU_IMAGES/br1.png");
+        background-size: 100% 100%;
+        border-radius: 30px; 
+        margin-left: -2%;
+         
+    }
+    .resp-div25-left{
+        width: 40%;
+        height: 180px;
+    }
+    .resp-div25-left h4{
+        color: white;
+        margin-top: 30%;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .resp-div25-left p{
+        color: yellow;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    
+    #heart{
+        color: red;
+        font-size: 30px;
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    .resp-plus{
+        /* display: flex;
+        flex-direction: row-reverse;
+        overflow: hidden; */
+        width: 50px;
+        height: 20px;
+        background-color: #fff;
+        border-radius: 40px;
+        margin-left: 71%;
+        margin-top: -5%;
+      
+       
+    }
+    
+    .resp-plus p{   
+        color: black;
+        text-align: center;
+    
+    
+        
+    }
+    .resp-div25-horz{
+        width: 85%;
+        height: 1px;
+        background-color: white;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    #resp-non-veg1{
+        margin-top: 15%;
+        margin-left: 3%;
+    }
+    
+    #resp-veg1{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+    /* 13th row end  */
+
+
+    /* ========= menu 2======== */
+   .div28{
+    display: none;
+   }
+    .resp-menu2{
+        display: block;
+        background-color: rgba(37, 35, 35, 1);
+
+
+
+    }
+    .div24-main-menu{
+        width: 100%;
+        height: 2575px;
+
+    }
+    .res-div24{
+        width: 100%;
+        display: block;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .res24-btn1{
+        align-items: center;
+
+    }
+    /* menu-page 2 */
+    .div22 img{
+        height: 280px;
+    }
+    /* menu3 */
+    .div25{
+        display: none;
+    }
+    .div25-main-menu{
+        width: 100%;
+        height: 2622px;
+    }
+    .res-24-btn1{
+        width: 210px;
+    }
+    /* menu4 */
+    .div26-main-menu{
+        width: 100%;
+        height: 2660px;
+    }
+    .menu4-heading{
+        width: 100%;
+    }
+    .menu4-heading h2{
+        font-size: 17px;
+        padding-bottom: 3%;
+        font-weight: 700;
+    }
+    /* menu page 5 =============================*/
+    .div27{
+        display: none;
+    }
+    .div27-main-menu{
+        width: 100%;
+        height: 2781px;
+    }
+#protein-li li{
+    font-size: 10px;
+    color: white;
+}
+#protein-li{
+    width: 120px;
+    color: white;
+    margin-top: -10%;
+
+}
+
+#protein-li h4{
+    font-size: 13px;
+}
+
+/* all row right div */
+/* first row */
+.resp-div25-right50{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl1.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* end first row */
+/* 2nd row */
+.resp-div25-right51{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl2.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 2nd end row */
+
+/* 3rd row */
+.resp-div25-right52{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl3.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 3rd end row */
+
+/* 4th row */
+.resp-div25-right53{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl4.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 4th  end row */
+
+/* 5th row */
+.resp-div25-right54{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl5.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 5th  end row */
+
+/* 6th row */
+.resp-div25-right55{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl6.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 6th  end row */
+
+/* 7th row */
+.resp-div25-right56{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl7.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 7th  end row */
+
+/* 8th row */
+.resp-div25-right57{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl8.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 8th  end row */
+
+/* 9th row */
+.resp-div25-right58{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl9.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 9th  end row */
+
+/* 10th row */
+.resp-div25-right59{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl10.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 10th  end row */
+
+/* 11th row */
+.resp-div25-right60{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl3.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 11th  end row */
+
+/* 12th row */
+.resp-div25-right61{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/sl7.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 12th  end row */
+
+
+/* menu page 5 end */
+
+
+
+/* menu page 6 start------------------------------------------ */
+.div28-main-menu{
+    width: 100%;
+    height: 2450px;
+}
+.resp-div25-right62{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de1.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* end first row */
+/* 2nd row */
+.resp-div25-right63{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de2.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 2nd end row */
+
+/* 3rd row */
+.resp-div25-right64{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de3.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 3rd end row */
+
+/* 4th row */
+.resp-div25-right65{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de4.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 4th  end row */
+
+/* 5th row */
+.resp-div25-right66{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de5.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 5th  end row */
+
+/* 6th row */
+.resp-div25-right67{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de6.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 6th  end row */
+
+/* 7th row */
+.resp-div25-right68{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de7.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 7th  end row */
+
+/* 8th row */
+.resp-div25-right69{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de8.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 8th  end row */
+
+/* 9th row */
+.resp-div25-right70{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de9.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 9th  end row */
+
+/* 10th row */
+.resp-div25-right71{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de10.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 10th  end row */
+
+/* 11th row */
+.resp-div25-right72{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de11.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+
+
+/* 12th row */
+.resp-div25-right73{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/de12.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* menu6 pagg all end */
+
+/* menu page 6 end  */
+
+/* menu page 7 start  */
+.div29-main-menu{
+    width: 100%;
+    height: 2140px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+.div29{
+    display: none;
+}
+
+/* MENU PAGE 7 ALL ROW  */
+/* 3rd row */
+.resp-div25-right74{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m9.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 3rd end row */
+
+/* 4th row */
+.resp-div25-right75{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m1.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 4th  end row */
+
+/* 5th row */
+.resp-div25-right76{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m2.jpeg");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 5th  end row */
+
+/* 6th row */
+.resp-div25-right77{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m3.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 6th  end row */
+
+/* 7th row */
+.resp-div25-right78{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m4.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 7th  end row */
+
+/* 8th row */
+.resp-div25-right79{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m5.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 8th  end row */
+
+/* 9th row */
+.resp-div25-right80{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m6.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 9th  end row */
+
+/* 10th row */
+.resp-div25-right81{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m7.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* 10th  end row */
+
+/* 11th row */
+.resp-div25-right82{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m8.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+
+
+/* 12th row */
+.resp-div25-right83{
+    width: 120px;
+    height: 40px;
+    height: 150px;
+    height: 120px;
+    background-image: url("/Sunset/MENU_IMAGES/m9.png");
+    background-size: 100% 100%;
+    border-radius: 30px; 
+    /* margin-left: 5%; */
+     
+}
+/* Menu page 7 end  */
+
+/* Menu page 8 start ----------------------------------------------- */
+.div30-main-menu{
+    width: 100%;
+    height: 2050px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+#div30-img {
+    margin-top: -6%;
+}
+.div30{
+    display: none;
+}
+.div30-list{
+    margin-left: 5%;
+}
+.resp-line8{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.resp-line81{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.resp-plus-minus8{
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 25%;
+    
+}
+.menu8-right{
+    margin-left: 5%;
+}
+.resp-plus-minus8 p{
+    color: black;
+    padding: 6%;
+    padding-left: 24%;
+}
+.menu8-right h3{
+color: white;
+font-size: 17px;
+}
+.menu8-right h4{
+color: yellow;
+}
+/* .div30-list ul,li{
+    font-size: 12px;
+    line-height:  15px;
+
+} */
+#horz4{
+    width: 300px;
+    margin-left: -2.8%;
+    background-color: yellow;
+}
+#bottom-heading h3{
+    font-size: 15px;
+}
+
+
+/*  menu page 8 end*/
+    
+
+}

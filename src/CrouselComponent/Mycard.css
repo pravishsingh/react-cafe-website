@@ -1,0 +1,25 @@
+.mycard{
+    width: 400px;
+    height: 500px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+.mycard img{
+    min-width: 400px;;
+    max-width: 400px;
+    height: 500px;  
+
+}
+@media(max-width:500px){
+    .mycard{
+        width: 300px;
+        height: 300px;
+        margin: 0px;
+        margin-left: -4%;
+    }
+    .mycard img{
+      max-width: 270px;
+        height: 300px;
+    }
+}

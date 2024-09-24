@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#container1{ 
+    background-color: rgb(87, 86, 86);
+
+}
+.quote{
+    
+}
+.quote h3{
+    font-style: Josefin Sans;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 3%;
+
+
+}
+@media(max-width:500px){
+    #container1{
+        /* width: 200px; */
+        margin-top: 10%;
+    }
+    .quote h3{
+        width: 150%;
+        font-size: 12px;
+        text-align: center;
+        letter-spacing: 0px;
+
+    }
+}

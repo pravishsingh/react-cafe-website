@@ -1,0 +1,1330 @@
+.div22-main-menu{
+    width: 100%;
+    height: 1780px;
+    background-color:rgba(37, 35, 35, 1);
+}
+.navItem{
+    max-width: 200px;
+    min-width: 280px;
+    height: 50px;
+    /* border: 2px solid black; */
+    /* padding: 0  10px; */
+    /* margin: 10px; */
+    list-style: none;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-top: 9px;
+
+    /* letter-spacing: 2px; */
+}
+.navItem:hover{
+    color: orange;
+    text-decoration: underline;
+}
+.div22 img{
+    width: 100%;
+    max-height: 500px;
+    min-height: 280px;
+
+}
+/* ============= */
+.res-div-mainMenu1{
+    /* display: none; */
+  }
+.div23{
+    display: flex;
+
+}
+.div23-one{
+    width: 49%;
+}
+  .div23-one-btn{
+    width: 361px;
+    height: 73px;
+    background-color: rgba(209, 110, 67, 1);
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 13%;
+    margin-top: 3%;
+
+  }
+  .div23-one-btn h3{
+    color: white;
+    font-size: 34px;
+    letter-spacing: 3px;
+    margin-top: 4%;
+    margin-left: 6%;
+    font-weight: 700;
+
+    
+  }
+  .veg{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    margin: 4%;
+    margin-left: 15%;
+  }
+  .green{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+  .slint-line{
+    width: 2px;
+    height: 69px;
+    background-color: #fff;
+    rotate: 12deg;
+    margin-left: -5%;
+  }
+  .non-veg{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin-top: 4%;
+    
+  }
+
+  .brown{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+/* button part end */
+.line1{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    
+}
+.line1 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line1 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+
+}
+.plus-minus p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line1 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg1{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div23-two{
+    margin-top: 6%;
+    width: 2px;
+    height: 880px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+/* div23 end */
+/* div23 start----------------------------------------> */
+
+/* div23 start */
+.div23-three{
+    width: 49%;
+}
+#third-col-btn{
+    width: 400px;
+    /* margin-left: ; */
+    
+}
+#third-col-btn h3{
+    padding-left: 3%;
+    margin-left:0px;
+    letter-spacing: 1px;
+    font-size: 31px;
+    font-weight: 700;
+
+} 
+/* thire coloumn end div23 */
+
+.down-arrow1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.down-arrow1 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+/* menu page end */
+
+/* Responsive part start==================================> */
+
+/* responsive end============================================  */
+
+
+/* menu2 ===================================================*/
+
+.resp-menu2{
+    display: none;
+}
+
+.div24 img{
+    width: 100%;
+    height: 520px;
+    margin-top: 4%;
+    
+}
+.div24-main-menu{
+    margin-top: -1%;
+    width: 100%;
+    height: 1540px;
+    background-color: rgba(37, 35, 35, 1);
+    
+}
+.div24-content{
+    width: 100%;
+    display: flex;
+    /* border: 2px solid rgb(107, 80, 30); */
+}
+
+.div24-one{
+    width: 49%;
+
+}
+.x h2{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-left: 10%;
+    text-decoration: underline;
+}
+.x-content{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cont{
+    margin-left: 9%;
+}
+.x-content h5{
+    color: white;
+    font-size: 15px; 
+    letter-spacing: 2px;
+
+}
+.cont p{
+    color: yellow;
+    margin-left: 3%;
+}
+.plus-minus1{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-left: 28%;
+    margin-top: 1%;
+
+}
+
+.plus-minus1 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+
+
+.x-content button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.sl-line{
+    width: 2px;
+    height: 680px;
+    background-color:yellow;
+}
+
+.div24-three{
+    width: 49%;
+}
+#plus0{
+    margin-left: 27%;
+}
+
+#plus{
+    margin-left: 23%;
+}
+#plus1{
+    margin-left: 6%;
+}
+#plus2{
+    margin-left: 6%;
+}
+#plus3{
+    margin-left: 1%;
+}
+/* menu3 page ================================== */
+
+.div26-main-menu{
+    width: 100%;
+    height: 1540px;
+    background-color:rgba(37, 35, 35, 1);
+}
+.menu4-heading h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-size: 700;
+    margin-top: 2%;
+}
+#div26-one{
+    margin-top: 2%;
+}
+
+#non-veg2{
+    margin-left: 13%;
+}
+#potato-plus{
+    margin-left: -4%;
+}
+.div26-two{
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+/* menu4 page start----------------------------------------------------------------------------------------> */
+/* menu4 page start----------------------------------------------------------------------------------------> */
+
+
+.menu4-heading h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-size: 700;
+    margin-top: 2%;
+}
+#div26-one{
+    margin-top: 2%;
+}
+
+#non-veg2{
+    margin-left: 13%;
+}
+#potato-plus{
+    margin-left: -4%;
+}
+.div26-two{
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+/* menu page 4 end ----------------------------------------------------------------> */
+/* menu page 4 end ----------------------------------------------------------------> */
+/* menu page 4 end ----------------------------------------------------------------> */
+
+/* menu page 3 start  */
+
+/* menu page 3 start------------------------------------------------------------------------------------------> */
+.down-arrow2{
+    display: block;
+}
+.div25-main-menu{
+    width: 100%;
+    height: 1600px;
+    background-color:rgba(37, 35, 35, 1);
+}
+.div25{
+    display: flex;
+
+}
+.div25-one{
+    width: 49%;
+}
+  .div25-one-btn1{
+    width: 361px;
+    height: 73px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 13%;
+    margin-top: 5%;
+
+  }
+  .div25-one-btn1 h3{
+    color: white;
+    font-size: 34px;
+    letter-spacing: 3px;
+    margin-top: 4%;
+    margin-left: 6%;
+    font-weight: 700;
+
+    
+  }
+  .veg2{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    /* margin-left: 15%; */
+  }
+  .green2{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+
+  .slint-line2{
+    width: 2px;
+    height: 69px;
+    background-color: #fff;
+    rotate: 12deg;
+    margin-left: -5%;
+  }
+  .non-veg2{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin-top: 1%;
+    
+  }
+
+  .brown2{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+/* button part end */
+.line2{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    
+}
+.line2 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line2 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus2{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+
+}
+.plus-minus2 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line2 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg2{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div25-two{
+    margin-top: 6%;
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+
+/* div25 three start */
+
+.div25-three{
+    width: 49%;
+    height: 400px;
+}
+#third-col-btn1{
+    width: 500px;
+    /* margin-left: ; */
+    
+}
+#third-col-btn1 h3{
+    padding-left: 3%;
+    margin-left:0px;
+    letter-spacing: 1px;
+    font-size: 31px;
+    font-weight: 700;
+
+} 
+/* thire coloumn end div25*/
+
+.down-arrow2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 3%;
+}
+
+.down-arrow2 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+/* menu3 page end-------------------------------------------------------------------> */
+/* menu3 page end-------------------------------------------------------------------> */
+/* menu page 3 end  */
+
+
+
+/* menu page 5 start --------------------------------------- */
+.div27-main-menu{
+    width: 100%;
+    height: 1580px;
+    background-color:rgba(37, 35, 35, 1);
+}
+
+.div27{
+    display: flex;
+
+}
+.div27-one{
+    width: 49%;
+    margin-top: 4%;
+}
+
+  .veg5{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    margin: 4%;
+    margin-left: 15%;
+  }
+  .green5{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+
+  .non-veg5{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin-top: 4%;
+    
+  }
+
+  .brown5{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+.green-plus-add{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.green-plus-add1{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -14px;
+}
+.green-plus-add2{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -2px;
+}
+.green-plus-add3{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -17px;
+}
+.green-plus-add4{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+.green-plus-add5{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 75px;
+  
+}
+.green-plus-add6{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 60px;
+  
+}
+.green-plus-add7{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 80px;
+  
+}
+.line5 h3{
+    
+}
+
+/* button part end */
+.line5{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    
+    
+}
+.line5 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line5 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus5{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 3%;
+
+}
+.plus-minus5 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line5 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg5{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div27-two{
+    margin-top: 5%;
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+/* div27 two end */
+
+/* div27 three start */
+.div27-three{
+    width: 49%;
+}
+
+
+
+.down-arrow1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.down-arrow1 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+.div27-three-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-top: 10%;
+    margin-left: 4%;
+}
+.protein{
+    width: 250px;
+    height: auto;
+    margin-top: 3%; 
+    margin-left: -15%;
+}
+.protein li{
+    color: rgb(255, 255, 255);
+    /* text-align: justify; */
+    font-size: 15px;
+    font-weight: 100;
+}
+.protein h4{
+    margin-top: 2%;
+}
+
+#desc{
+    font-size: 1px;
+    font-weight: none;
+}
+/* page 5 end-------------------------------------------------------------> */
+/* page 5 end-------------------------------------------------------------> */
+/* page 5 end-------------------------------------------------------------> */
+/* page 5 end-------------------------------------------------------------> */
+/* page 5 end-------------------------------------------------------------> */
+
+/* page 6 start -----------------------------------------------------------------------> */
+.div29-main-menu{
+    width: 100%;
+    height: 1540px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+.div28-main-menu{
+    width: 100%;
+    height: 1520px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+
+.div28{
+    display: flex;
+
+}
+.div28-one{
+    width: 49%;
+    margin-top: 4%;
+}
+.div28-one-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    /* margin-top: 10%; */
+    margin-left: 14%;
+}
+.tandori1{
+    width: 300px;
+}
+
+  .veg6{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    margin: 4%;
+    margin-left: 15%;
+  }
+  .green6{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+
+  .non-veg6{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin-top: 4%;
+    
+  }
+
+  .brown6{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+.green-plus-add8{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.green-plus-add9{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -14px;
+}
+.green-plus-add10{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -2px;
+}
+.green-plus-add11{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -17px;
+}
+.green-plus-add12{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+.green-plus-add13{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 75px;
+  
+}
+.green-plus-add14{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 60px;
+  
+}
+.green-plus-add15{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 80px;
+  
+}
+
+
+/* button part end */
+.line6{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    
+    
+}
+.line6 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line6 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus6{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 3%;
+
+}
+.plus-minus6 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line6 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg6{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div28-two{
+    margin-top: 5%;
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+/* div28 two end */
+
+/* div28 three start */
+.div28-three{
+    width: 49%;
+}
+
+
+
+.down-arrow1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.down-arrow1 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+.div28-three-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-top: 10%;
+    margin-left: 14%;
+}
+/* menu 6 page end -------------------------------------------> */
+/* menu 6 page end -------------------------------------------> */
+/* menu 6 page end -------------------------------------------> */
+/* menu 6 page end -------------------------------------------> */
+
+/* menu 7 page start ------------------------------------------------------------------------------> */
+
+.div30-main-menu{
+    width: 100%;
+    height: 1580px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+.div29{
+    display: flex;
+
+}
+.div29-one{
+    width: 49%;
+    margin-top: 4%;
+}
+.div29-one-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    /* margin-top: 10%; */
+    margin-left: 14%;
+}
+.tandori1{
+    width: 300px;
+}
+
+  .veg7{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    margin: 4%;
+    margin-left: 15%;
+  }
+  .green7{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+
+  .non-veg7{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin: 4%;
+    margin-left: 15%;
+    
+  }
+
+  .brown7{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+
+
+.green-plus-add{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -3px
+}
+
+
+/* button part end */
+.line7{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    
+    
+}
+.line7 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line7 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus7{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 3%;
+
+}
+.plus-minus7 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line7 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg7{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div29-two{
+    margin-top: 5%;
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+/* div28 two end */
+
+/* div28 three start */
+.div29-three{
+    width: 49%;
+}
+
+
+
+.down-arrow1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.down-arrow1 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+.div29-three-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-top: 3%;
+    margin-left: 14%;
+}
+/* Menu 7 page end----------------------------------------------------------- */
+/* Menu 7 page end----------------------------------------------------------- */
+/* Menu 7 page end----------------------------------------------------------- */
+/* Menu 7 page end----------------------------------------------------------- */
+/* Menu 7 page end----------------------------------------------------------- */
+
+/* Menu 8 page start------------------------------------------------------------------------------------------------------------ */
+.res-div24{
+    display: none;
+}
+.resp-menu8{
+    display: none;
+}
+.div31-main-menu{
+    width: 100%;
+    height: 1580px;
+    background-color:rgba(37, 35, 35, 1);
+
+}
+#div30-img {
+    margin-top: 4%;
+}
+
+.div30{
+    display: flex;
+
+}
+.div30-one{
+    width: 49%;
+    margin-top: 2%;
+}
+.div30-one-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    /* margin-top: 10%; */
+    margin-left: 14%;
+}
+.tandori1{
+    width: 300px;
+}
+
+  .veg8{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid rgb(42, 177, 42);
+    margin: 4%;
+    margin-left: 15%;
+  }
+  .green8{
+    width: 16px;
+    height: 14px;
+    background-color: rgb(42, 177, 42);
+    border-radius: 30px;
+    margin: 24%;
+    
+  }
+
+  .non-veg8{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown;
+    margin: 4%;
+    margin-left: 15%;
+    
+  }
+
+  .brown8{
+    width: 16px;
+    height: 14px;
+    background-color: brown;
+    border-radius: 30px;
+    margin: 24%;
+  }
+
+
+.green-plus-add{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -3px
+}
+.div30-list{
+    color: white;
+    margin-top: 5%;
+    line-height: 155%;
+}
+
+
+/* button part end */
+.line8{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    
+    
+}
+.line8 h3{
+    color: white;
+    font-size: 20px;
+
+}
+.line8 h4{
+    color:rgba(246, 250, 17, 1);
+    font-size: 20px;
+    
+}
+.plus-minus8{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 3%;
+
+}
+.plus-minus8 p{
+    color: black;
+    font-size: 10px;
+    margin-top: 31%;
+    margin-left:7px ;
+    letter-spacing: 1px;  
+}
+.line8 button{
+    width: 120px;
+    height: 60px;
+    background-color: rgba(203, 95, 95, 1);
+    border:none;
+    border-radius: 30px;
+    font-size: 28px;
+    color: white;
+}
+.non-veg8{
+    width: 40px;
+    height: 34px;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid brown
+}
+.div30-two{
+    margin-top: 5%;
+    width: 2px;
+    height: 650px;
+    background-color:  rgba(246, 250, 17, 1);
+}
+
+/* div28 two end */
+
+/* div28 three start */
+.div30-three{
+    width: 49%;
+    margin-top: 2%;
+    
+}
+
+
+
+.down-arrow1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 47%;
+    margin-top: 4%;
+}
+
+.down-arrow1 span{
+    color: white;
+    font-size: 30px;
+    padding: 15%;
+}
+.div30-three-heading{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-top: 3%;
+    margin-left: 14%;
+}
+.div30-last-heading h3{
+    text-align: center;
+    color: rgba(203, 95, 95, 1);
+    font-size: 25px;
+    margin-top: 2%;
+}

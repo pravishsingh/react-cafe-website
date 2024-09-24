@@ -1,0 +1,301 @@
+/* Account Information page start---------------------------------------------------> */
+/* Account Information page start---------------------------------------------------> */
+
+.div34-main-menu{
+    width: 100%;
+    height: 1210px;
+    background-image: url("/Sunset/MENU_IMAGES/cart-image.png");
+    background-size: 100% 100%;
+}
+.div34-shadow{
+    width: 100%;
+    height: 1210px;
+    background-color: rgba(0, 0, 0,0.5);
+}
+.div-acc-inf-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 1100px;
+    /* border: 2px solid red; */
+}
+
+.div-acc-inf-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width:25%;
+    height:300px;
+    margin-top: 3%;
+    margin-left: 2%;
+    /* border:2px solid green; */
+    background-color: rgb(49, 47, 47);
+}
+
+
+.acc-inf-one{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-top: 7%; */
+    justify-content: space-between;
+}
+/* .acc-one-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+    display: none;
+
+} */
+
+
+
+.acc-inf-one-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+    
+
+}
+/* 
+.acc-one-content:hover + .acc-one-line,
+.acc-one-line:hover {
+    display: block;
+} */
+
+/* acc first left end */
+.acc-inf-two{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    justify-content: space-between;
+}
+/* .acc-two-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+
+} */
+.acc-inf-two-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+
+}
+/* acc SECOND left end */
+.acc-inf-three{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    justify-content: space-between;
+}
+/* .acc-three-line{
+    width: 2px ;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 1%;
+
+} */
+.acc-inf-three-content{
+    width: 96%;
+    height: 33px;
+    /* border: 2px solid brown; */
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 3%;
+}
+/* acc THIRD left end */
+/* left part end  */
+/* right part start */
+
+.div-acc-inf-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+        width: 68%;
+        
+        height: 1100px;
+        margin-left: 5%;
+        /* border:2px solid yellow; */
+    }
+.acc-inf-right-head{
+    margin-top: 3%;
+    width: 90%;
+    height: 40px;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    /* border:2px solid yellowgreen; */
+}
+.acc-inf-right-head2{
+    width: 90%;
+    height: 60px;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+
+    /* border:2px solid yellowgreen */
+}
+.acc-inf-right-head2-horz{
+    width: 90%;
+    height: 2px;
+    margin-top: 1%;
+    background-color: white;
+}
+/* form1 */
+.acc-inf-form1{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    height: 400px;
+    color: white;
+    font-size: 30px;
+    /* border:2px solid yellowgreen; */
+}
+.acc-inf-form1 input{
+    width: 70%;
+    height: 80px;
+    background-color: black;
+    border: none;
+    font-size: 25px;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+/* form1 end */
+.acc-inf-row2{
+    width: 95%;
+    height: 60px;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    /* border: 2px solid orangered; */
+}
+.acc-inf-right-horz2{
+    width: 95%;
+    height: 2px;
+    background-color: #fff;
+    margin-top: 1%;
+}
+/* form2  */
+
+.acc-inf-form2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+    width: 95%;
+    height: 500px;
+    color: white;
+    font-size: 30px;
+    /* border:2px solid yellowgreen; */
+}
+.acc-inf-form2 input{
+    width: 70%;
+    height: 65px;
+    background-color: black;
+    border: none;
+    font-size: 25px;
+    padding-left: 2%;
+    margin-top: 1%;
+}
+.inf-frm2{
+    display: flex;
+    flex-direction: column;
+}
+/* form1 end */
+/* info page end */
+/* responsive page start ------------------------------ */
+
+@media(max-width:500px){
+    
+/* account info page start-------------------------------------------------------> */
+.div-acc-inf-left{
+    display: none;
+}
+.div-acc-inf-right{
+    width: 100%;
+}
+.acc-inf-right-head{
+    display: none;
+}
+.div-acc-inf-right{
+    height: 800px;
+}
+.div34-main-menu{
+    height:880px;
+}
+.div-acc-inf-main {
+    height: 1060px;
+}
+.div34-shadow{
+    height: 900px;
+
+}
+.acc-inf-right-head2{
+    width: 100%;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: -3%;
+    margin-top: -9%;
+
+}
+.acc-inf-right-head2-horz{
+    width: 102%;
+    margin-left: -1%;
+}
+.acc-inf-form1{
+    width: 100%;
+height: 280px;
+margin-left: -1%;
+    font-size: 20px;
+}
+
+.acc-inf-form1 input{
+    width: 80%;
+    height: 40px;  
+    border-radius: 10px;
+    margin-left: 6%;
+    font-size: 20px;
+}
+.acc-inf-row2{
+    width: 100%;
+    text-align: center;
+    margin-left: -2%;
+    margin-top: -2%;
+
+}
+.acc-inf-right-horz2{
+    width: 102%;
+    margin-left: -1.5%;
+}
+.acc-inf-form2{
+    width: 100%;
+    height: 370px;
+    margin-left: -1%;
+    font-size: 20px;
+    margin-top: -4%;
+}
+.acc-inf-form2 input{
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 6%;
+}
+
+/* info page end -------------------------------------------------------------------------------------------------- */
+
+}
+

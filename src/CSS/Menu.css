@@ -1,0 +1,272 @@
+.menu-main{
+    background-color:rgba(37, 26, 23, 1)
+}
+.menu-head{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    /* border: 2px solid red; */
+
+}
+.left-hz{
+    width: 180px;
+    height: 2px;
+    margin-top: 2.2%;
+    margin-right: 1.5%;
+    background-color: rgba(209, 110, 67, 1);
+}
+.middle-cont{
+    font-family: Inter;
+    font-size: 45px;
+    color: rgba(218, 143, 112, 1);    ;
+    letter-spacing: 22px;
+    font-weight: 700;
+}
+.right-hz{
+    width: 180px;
+    height: 2px;
+    background-color: rgba(209, 110, 67, 1);
+    margin-top: 2.2%;
+    margin-left: 0%;
+}
+
+.cafe{
+    font-family: "Inspiration", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    margin-top: 1%;
+    /* border: 2px solid yellow; */
+}
+/*  */
+/* div 8 start--------------- */
+.div8{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.div8 img{
+    margin-top: 6%;
+    width: 332px;
+    height: 349px;
+    border-radius: 160px;
+}
+.div8 button{
+    margin-top: 4%;
+    width: 361px;
+    height:73px ;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: 27px;
+    background-color: rgba(209, 110, 67, 1);
+}
+
+.div8-expresso{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 11%;
+    
+}
+.exp-content h2{
+    color: white;
+}
+.exp-content p{
+    color: white;
+    
+}
+.exp-content h2{
+    font-size: 30px;
+}
+.exp-content p{
+    font-size: 20px;
+    margin-top: 4%;
+}
+.exp-logo span{
+    /* color: white; */
+    font-size: 40px;
+    background-color: rgb(101, 209, 101);
+    border-radius: 50%;
+
+
+}
+.exp-logo h2{
+    color: white;
+    font-weight: 700;
+    margin-left: -12%;
+    margin-top: 4%;
+}
+.special-horizontal{
+
+    width: 100%;
+    height: 1px;
+    background-color: grey;
+    margin-top: 6%;
+}
+.hot-vertical{
+    /* position: absolute; */
+    background-color: gray;
+    width: 2px;
+    height: 400px;
+    margin-top: 38%;
+}
+/* DIV 8 END -------------------------------------- */
+
+/* DIV9 START-------------------------------- */
+
+.div9{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    justify-content: space-between;
+}
+.div9-one{
+    width:440px;
+    height: 2px;
+    background-color: rgba(209, 110, 67, 1);
+    margin-top: 2%;
+}
+
+.div9-two button{
+    width: 300px;
+    height: 60px;
+    background-color: rgba(209, 110, 67, 1);
+    color: white;
+    font-size: 20px;
+    border: none;
+    letter-spacing: 2px;
+    font-weight: 700;
+    
+}
+
+.div9-three{
+    width:440px;
+    height: 2px;
+    background-color: rgba(209, 110, 67, 1);
+    margin-top: 2%;
+}
+/* DIV9 END HERE --------------------------------------------------------------> */
+
+/* DIV10 START HERE ---------------------------------------------------------------------------------> */
+
+.div10{
+    width: 100%;
+    height: 300px;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.one-img img{
+    width: 236px;
+    height: 222px;
+    border-radius: 20px;
+}
+.div10-one h2{
+    color: white;
+    text-align: center;
+}
+.two-img img{
+    width: 376px;
+    height: 278px;
+    border-radius: 20px;
+}
+.div10-two h2{
+    color: white;
+    text-align: center;
+}
+
+.three-img img{
+    width: 348.28px;
+    height: 278px;
+    border-radius: 20px;
+}
+.div10-three h2{
+    color: white;
+    text-align: center;
+}
+
+.four-img img{
+    width: 261.28px;
+    height: 222px;
+}
+.div10-four h2{
+    color: white;
+    text-align: center;
+}
+/* div 10 end  */
+/* div 11 start */
+.div11{
+    display: flex;
+    justify-content: center;
+}
+.explore-btn{
+    
+    width: 250px;
+    height: 50px;
+    background-color: rgba(203, 95, 95, 1);
+    color: white;
+    border: none;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-top: 10%;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+/* div11 end  */
+/* div12 start--------------------------------> */
+
+.div12{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.div12-one{
+    width: 440px;
+    height: 2px;
+    background-color: rgba(209, 110, 67, 1);
+     margin-top: 1%;
+    
+    
+}
+.div12-two{
+    color:white;
+    letter-spacing: 2px;
+
+}
+.div12-three{
+    width: 440px;
+    height: 2px;
+    background-color: rgba(209, 110, 67, 1);
+    margin-top: 1%;
+}
+/* div 12 end here */
+#crouselimg{
+    width:400px
+}
+
+.resp-main-menu1{
+    display: none; 
+  
+}
+.crausel-menu{
+    width: 100%;
+    height: 550px;
+    background-color:rgba(37, 26, 23, 1);
+    margin-top: -1%;
+}
+
+
+/*  */
+/*  Responsive -----------------------*/
+/*  Responsive --------------------======================================---*/
+/*  Responsive -----------------------*/

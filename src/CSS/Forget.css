@@ -1,0 +1,59 @@
+.forget-page{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+
+}
+.forget-left{
+    width: 44%;
+    height: 380px;
+    /* border: 2px solid yellowgreen; */
+
+
+}
+.forget-left img{
+    width: 100%;
+    height: 400px;
+}
+.forget-right{
+    width: 40%;
+    height: 380px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.forget-right p{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(209, 110, 67, 1);
+    letter-spacing: 2px;
+    padding-left: 2%;;
+}
+.forget-right input{
+    width: 80%;
+    height: 50px;
+    background-color: black;
+    opacity: 0.2;
+    font-size: 22px;
+    padding-left: 2%;
+   font-weight: 700;
+   border-radius: 20px;
+
+}
+.send-code{
+    width: 430px;
+    height: 50px;
+    background-color:rgba(240, 173, 144, 1);
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+
+}
+.forget-right h1{
+    font-size: 22px;
+    font-weight: 700;
+}
